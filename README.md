@@ -21,7 +21,9 @@
  
  
  ## Observation:
-#### As i bring the Detector near the elertricity board the LED as well as the Buzzer stats working which means it has detected the AC supply. When we take the detector towards the another side it stops working .
+#### As i bring the Detector near the elertricity board the LED as well as the Buzzer stats working which means it has detected the AC supply. When we take the detector towards the another side it stops working .                                                                                  
+                                                                                                 
+.                                                                                                 
  
  ## Explanation:
 
@@ -30,11 +32,17 @@
 ![maxresdefault_64 (2)](https://user-images.githubusercontent.com/79529647/119488733-bbed9200-bd0f-11eb-8643-f0755e47689d.jpg)
 
 #### Through this image we could understand that the amplification occurs as we connect a transistor to another. 
+
 #### The coil connected in the front receives a signal or very small current from the board and transfers it to the transistor. Now the transistors amplifies the signal and forwards it(more the transistors, better the signal) due to which the LED and the Buzzer starts working.
+
+.
 
 ## How the coil or antenna draws the current without any contact ? 
 #### -- When our coil is brought near to the supply board, coil works as one end of the Capacitor and the other end is in the supply, middle part becomes the capacitance due to which a signal is received and forwarded to the base of the transistor. If we increase the area of the coil better will be the signal received.  
-
+ 
+ .
+ 
+ 
 
 ## If we move towards the other side of the hole why the detector stops working ? 
 #### -- Because of hole being Neutral the detector dont work and as it move towards the hole of phase line , the detector stars working.  
