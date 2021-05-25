@@ -21,7 +21,7 @@
  
  
  ## Observation:
-#### As i bring the Detector near the elertricity board the LED as well as the Buzzer stats working which means it has detected the AC supply. When we take the detector towards the another side it stops working .                                                                                  
+#### As i bring the Detector near the electricity board the LED as well as the Buzzer stats working which means it has detected the AC supply. When we take the detector towards the another side it stops working .                                                                                  
                                                                                                  
 .                                                                                                 
  
