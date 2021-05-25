@@ -1,4 +1,4 @@
-# Non-Contact-AC-Voltage-Detector-
+# Non-Contact-AC-Voltage-Detector
 
  #### Hi, Shubh this side,  I am here to give a bit of description about the project that i made.                                                                                                                                                                                                                                                                                         
 👇                                                                                                                                                     
